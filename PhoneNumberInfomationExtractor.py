@@ -115,7 +115,5 @@ class PhoneNumberInformationExtractor:
 		# Should concat the result as it will have special chars there
 		return result[3:len(result)-2]
 if __name__ == '__main__':
-	test = PhoneNumberInformationExtractor('+8801742014432')
-	print test.getCarrier()
-	print test.getCity()
-	print test.getState()
+	test = PhoneNumberInformationExtractor('+8801742014432')	printtest.getinstagram_account(01742014432) printtest.getfacebook_account(01742014432)
+printtest.getwhat'sapp_account(01742014432)
